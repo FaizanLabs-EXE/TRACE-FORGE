@@ -1,0 +1,1 @@
+{"name":"TraceForge OSINT Dashboard","short_name":"TraceForge","description":"Local-first public-source investigation workspace","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#050b14","theme_color":"#07111f","orientation":"any","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
